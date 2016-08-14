@@ -7,7 +7,7 @@ Search for this comment:
 Each logo is represented by the following section of code:
 
   	<li class="logo-icon">
-                        <a class="logo-link tempo-link" href="#" target="_blank"> <img class="logo-img tempo-img" alt="tempo logo" src="img/tempo-logo.jpg"></a>
+                <a class="logo-link tempo-link" href="#" target="_blank"> <img class="logo-img tempo-img" alt="tempo logo" src="img/tempo-logo.jpg"></a>
         </li>
 
 To determine whether a logo needs a left border you need to search for this comment in the CSS file:
